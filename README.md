@@ -1,3 +1,9 @@
+# Docker Commands
+
+docker build -t admin .
+docker run -p 3000:4200 admin
+
+
 # Admin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
